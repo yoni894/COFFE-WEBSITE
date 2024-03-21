@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../javascript/07-Arrays-Methods"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WEB.HTML"
+	}
+}
